@@ -34,7 +34,7 @@ The Reactor Unit is where the action happens, it is made up of the pumps, pump c
 | RU-SDH  | Reactor stand - ¢ (Printed)                  | 1     |
 | RU-SDH  | Reactor stand - K (Printed)                  | 1     |
 | RU-TMP  | Thermistor                                   | 1     |
-| RU-PPM  | Peristaltic pumps with stepper motors        | 3     | [Or printable syringe pumps](https://github.com/FourThievesVinegar/microlab-parts/tree/main/syringe-pump) |
+| RU-PPM  | Peristaltic pumps with stepper motors        | 3     | [Or printable syringe pumps](https://github.com/FourThievesVinegar/microlab-parts/tree/master/syringe-pump) |
 | SP-SMC  | Stepper motor cables                         | 3     | 6-pin end for motors                                                                                      |
 | RU-SYR  | Syringes                                     | 3     |
 | RU-PUB  | Pumps box (Printed)                          | 1     |
